@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anuvind-M
-- 👀 I’m interested in coding, and I am beginner.
+- 👋 Hi, I’m @Anuvind
+- 👀 I am a beginner.
 - 📫 gmail: a2796n@gmail.com
 
 <!---
